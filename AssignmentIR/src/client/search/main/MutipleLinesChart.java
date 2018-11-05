@@ -23,8 +23,8 @@ import java.util.List;
 public class MutipleLinesChart extends JFrame { // the class extends the JFrame class
 
 
-    List<Float> cossineListData = new ArrayList<Float>();
-    List<Float> jaccardListData = new ArrayList<Float>();
+   public static   List<Float> cossineListData = new ArrayList<Float>();
+   public static List<Float> jaccardListData = new ArrayList<Float>();
 
     public MutipleLinesChart() {   // the constructor will contain the panel of a certain size and the close operations
         super("XY Line Chart Example with JFreechart"); // calls the super class constructor
@@ -38,9 +38,9 @@ public class MutipleLinesChart extends JFrame { // the class extends the JFrame 
     }
 
     private JPanel createChartPanel() { // this method will create the chart panel containin the graph
-        String chartTitle = "Objects Movement Chart";
-        String xAxisLabel = "X";
-        String yAxisLabel = "Y";
+        String chartTitle = "Similarity Compare";
+        String xAxisLabel = "Query Number";
+        String yAxisLabel = "Best Rank Document Score";
 
         XYDataset dataset = createDataset();
 
@@ -76,8 +76,8 @@ public class MutipleLinesChart extends JFrame { // the class extends the JFrame 
 
 
         queryNumber = 1;
-        for(Float x:cossineListData){
-            seriesCos.add(queryNumber,x);
+        for(Float x:jaccardListData){
+            seriesJac.add(queryNumber,x);
             queryNumber++;
         }
 

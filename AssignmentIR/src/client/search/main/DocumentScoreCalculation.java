@@ -487,20 +487,9 @@ public class DocumentScoreCalculation {
    }
 
 
-   public void  graphPlot(){
-
-
-       final XYSeriesDemo demo = new XYSeriesDemo("Cossine and Jackard Similarity Result on Doc");
-       demo.setGraphData(cosssineScoreList,jaccardScoreList);
-       demo.pack();
-       RefineryUtilities.centerFrameOnScreen(demo);
-       demo.setVisible(true);
-
-   }
-
   public  void  multipleGraphPlot(){
-        MutipleLinesChart obj = new MutipleLinesChart();
-        obj.setGraphData(cosssineScoreList,jaccardScoreList);
+        MutipleLinesChart.cossineListData = cosssineScoreList;
+        MutipleLinesChart.jaccardListData = jaccardScoreList;
       SwingUtilities.invokeLater(new Runnable() {
           @Override
           public void run() {
