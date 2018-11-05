@@ -1,0 +1,42 @@
+
+2567. molecular basis histidase induction bacillus subtilis 
+bacillus subtilis growing 37  
+glutamate, carbon source, induced 
+form histidase l-histidine.  
+enzyme, converting histidine urocanic 
+acid, isolated purified form. 
+highly sensitive convenient assay 
+induced enzyme described 
+applied show histidase appears 
+cell 5 min. addition inducer. 
+histidase-synthesizing capacity appears 
+2 min. decays exponentially 
+addition actinomycin (an inhibitor 
+dna-dependent rna synthesis).  
+half-time value histidase-synthesizing 
+capacity 2.4 high, compared 
+half-time value messenger rna. 
+histidase formation addition 
+actinomycin due protein 
+synthesis directed accumulated m-rna 
+also conversion enzymatical- 
+ly inactive protein, present moment 
+actinomycin addition product 
+specific m-rna, active enzyme. 
+existence enzyme pre- 
+cursor shown means experiments 
+performed presence chlor- 
+amphenicof.  finally, numerical values 
+steady state histidase synthesis, 
+reached 9 min. addition inducer, 
+calculated, basis ki- 
+netics histidase synthetic capacity, precursor 
+enzyme formation  cell 
+contains sufficient precursor form 
+approximately 100 molecules histidase. 
+cell produces approximately 50 
+molecules histidase per min.  cell ac- 
+quires loses, every minute, 
+capacity make 15 molecules histidase 
+per minute.  maximal enzyme 
+level 15,000 molecules per cell. 

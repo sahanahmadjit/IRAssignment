@@ -1,0 +1,16 @@
+
+1451. biosynthesis 5-hydroxymethyldeoxyuridylic acid 
+bacteriophage-infected bacillus subtilis 
+phage  e, contains 
+5-hydroxymethyluracil dna place thymine, 
+infects b. subtilis, enzyme changes 
+occur host organism can account 
+synthesis abnormal base. 
+deoxycytidylate deaminase increases 
+least 90-fold product action, 
+deoxyuridylic acid, converted directly 
+deoxynucleotide 5-hydroxymethyluracil 
+hydroxymethylase enzyme. 
+activity thymidylate synthetase, also 
+uses deoxyuridylic acid 
+substrate, decreases rapidly phage infection. 

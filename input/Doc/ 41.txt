@@ -1,0 +1,30 @@
+
+measurements nickel biological materials atomic absorption 
+spectrometry . 
+  atomic absorption procedure developed facilitates 
+quantitative measurements nickel biological materials, including 
+urine, ribonucleic acids (rna), serum proteins . 
+  sensitivity detection nickel atomic absorption 
+spectrometer (0.10 p.p.m.) insufficient permit direct 
+measurements nickel normal urine . therefore, necessary 
+employ dimethylglyoxime extraction procedure concentrate 
+nickel, prior atomic absorption spectrometry . 
+  coefficients variation measurements nickel urine 
+human b- globulins 6.3 5.9 per cent, respectively . 
+recovery nickel added urine averaged 96 per cent, range 
+94 97, recovery nickel added human b-globulin 
+averaged 101 per cent, range 96 104 . 
+  mean concentration nickel 24-hr. collections urine 
+17 normal subjects 1.8 ug. per 100 ml. (s.d. = 0.8), range 
+0.4 3.1 . mean urinary excretion nickel 19.8 ug. per 
+24 hr. (s.d. = 10.0), range 7.2 37.6 . 
+  mean concentration nickel 5 preparations ribonucleic 
+acids ultracentrifugal supernatants homogenates rat lung 
+48 ug. ni per gm. rna, range 34 64 . mean 
+concentration nickel 5 preparations rna ultracentrifugal 
+supernatants homogenates rat liver 29 ug. ni per gm. 
+rna, range 21 39 . 
+  measurements nickel performed upon fractions human serum 
+proteins, prepared continuous-flow electrophoresis, 
+cold-ethanol precipitation . highest concentrations nickel 
+found preparations serum b-globulins . 

@@ -1,0 +1,27 @@
+
+responses b. subtilis (atcc 558) streptomycin . 
+  observe detail influence streptomycin growth sm 
+dependent type, author chose b. subtilis (atcc 558) made 
+experiments responses streptomycin, special reference 
+relation sm concentration spore formation sm 
+dependent type together germination outgrowth spores 
+formed . results follows . 
+  1. among 18x10 cells wild type b. subtilis (atcc 558) 
+3,200 cells sm resistant one cell sm dependent found 
+mutant . 
+  2. b. substilis (atcc 558) shows normal growth sm concentration 
+10 r/ml, growth declines rapidly sm 10 r/ml-20 r/m 
+l, growth stops entirely sm concentration 20 r/ml . 
+  3. sm resistant type grows well sm 0.1 r/ml-sm 2,000 r/ml, 
+growth declines rapidly sm 10,000 r/ml . 
+  4. sm dependent type shows normal growth sm 10,000 r/ml-20 r/m 
+l, growth get worth sm 10 r/ml, cell shape elongates 
+several times, sm 1 r/ml cell becomes filamentous form 
+several ten times length normal cell, cells 
+stopped divide low sm concentration . 
+  6. germination outgrowth spores sm dependent type 
+slow decline sm concentration, germinated spores 
+grow normal forms sm concentration reaches 7.8 r/ml, 
+germination becomes much slower, cells grow filamentous forms 
+irregular forms . extremely low sm concentration germination 
+outgrowth nearly stop . 

@@ -1,0 +1,13 @@
+
+visco-elastic properties lens . 
+  dynamic visco-elastic properties human, monkey rabbit 
+lenses measured dynamic rheometer . value 
+apparent elastic modulus (young modulus) lens found 10 
+-10 dyne/cm humans 10 -10 dyne/cm monkeys rabbits . 
+value loss tangent 0.3-0.4 human lens 0.3-0.6 
+rabbit monkey lenses . 
+  elastic moduli loss tangents lenses showed poor dependence 
+temperature 15 -55 c frequency oscillation 0.01-25 c/ 
+s . lenses showed linear visco-elasticity amplitude 
+oscillation 0.02 mm, showed nonlinear visco- 
+elasticity amplitude exceeded 0.03 mm . 
